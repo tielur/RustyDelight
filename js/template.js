@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/banner.png');
+		// $(".banner-image").backstretch('images/rustyDelight.png');
 		
 		// Fixed header
 		//-----------------------------------------------
