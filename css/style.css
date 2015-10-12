@@ -33,7 +33,7 @@ h5,
 h6 {
 	color: #B4424C;
 }
-h1 {
+/*h1 {
 	font-size: 38px;
 	font-weight: 700;
 	margin-bottom: 20px;
@@ -56,7 +56,7 @@ h5 {
 }
 h6 {
 	font-weight: 700;
-}
+}*/
 h1 span,
 h2 span,
 h3 span,
@@ -286,9 +286,9 @@ blockquote {
 .banner-caption h6 {
 	color: #ffffff;
 }
-.banner-caption h1 {
+/*.banner-caption h1 {
 	font-size: 60px;
-}
+}*/
 .subfooter p {
 	margin-bottom: 0;
 }
